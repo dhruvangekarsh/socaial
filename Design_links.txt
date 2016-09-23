@@ -6,3 +6,5 @@ http://tympanus.net/Development/PageLoadingEffects/index4.html              load
 http://tympanus.net/Tutorials/CircularProgressButton/                       File upload Process
 http://tympanus.net/Development/MinimalForm/                                feedBack Form
 http://tympanus.net/Development/ItemTransitions/                            item Transition
+
+http://tympanus.net/Tutorials/TiltedContentSlideshow/                       TiltedContentSlideshow
