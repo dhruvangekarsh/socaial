@@ -11,3 +11,5 @@ http://tympanus.net/Development/MinimalForm/                                feed
 ========================================Ecommerce===============================================
 
 http://tympanus.net/Development/ItemTransitions/                            item Transition
+
+http://tympanus.net/Tutorials/TiltedContentSlideshow/                       TiltedContentSlideshow
