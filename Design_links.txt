@@ -12,3 +12,4 @@ http://tympanus.net/Development/MinimalForm/                                feed
 
 http://tympanus.net/Development/ItemTransitions/                            item Transition
 http://tympanus.net/Tutorials/TiltedContentSlideshow/                       TiltedContentSlideshow
+http://tympanus.net/Development/StackEffects/                               StackEffects
