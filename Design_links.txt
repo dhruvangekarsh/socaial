@@ -1,6 +1,7 @@
 ========================================Social Network===============================================
 
 http://tympanus.net/Development/ElasticSVGElements/pullupmenu.html          A/C Setting
+http://tympanus.net/codrops/2013/05/02/vertical-timeline/                   timeline
 http://tympanus.net/Development/FullscreenForm/                             Form Chain  
 http://tympanus.net/Development/NotificationStyles/other-thumbslider.html   Notification
 http://tympanus.net/Development/ButtonComponentMorph/index.html             Setting
@@ -10,7 +11,17 @@ http://tympanus.net/Development/MinimalForm/                                feed
 
 ========================================Ecommerce===============================================
 
+http://tympanus.net/codrops/2013/05/17/product-grid-layout/                 ultimate Product listing
+http://tympanus.net/codrops/2013/07/01/view-mode-switch/                    view switching mode
 http://tympanus.net/Development/ItemTransitions/                            item Transition
 http://tympanus.net/Tutorials/TiltedContentSlideshow/                       TiltedContentSlideshow
 http://tympanus.net/Development/StackEffects/                               StackEffects
 http://tympanus.net/Development/AnimatedSVGIcons/                           Icon Effect
+http://tympanus.net/codrops/2013/03/05/horizontal-drop-down-menu/           Mega Menu For eCommerce
+
+========================================== Elements ==============================================
+
+http://tympanus.net/Blueprints/SlidePushMenus/                              Menu
+http://tympanus.net/codrops/2016/07/20/simple-interactive-points-effect/    Iterative Map With Image
+http://tympanus.net/codrops/2016/01/12/cinema-seat-preview-experiment/      Live Cinema Seat View
+http://tympanus.net/Development/ElasticCircleSlideshow/                     Elastic Slide Show
