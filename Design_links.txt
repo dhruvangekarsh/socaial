@@ -10,6 +10,8 @@ http://tympanus.net/Tutorials/CircularProgressButton/                       File
 http://tympanus.net/Development/MinimalForm/                                feedBack Form
 https://github.com/puikinsh/gentelella                                      Admin Panel
 
+http://tympanus.net/Tutorials/NaturalLanguageForm/                          sentance form
+
 
 https://codyhouse.co/gem/client-testimonials-carousel/                      testimonial Caroeuseal
 Owl Caroeuseal
