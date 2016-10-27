@@ -11,7 +11,7 @@ http://tympanus.net/Development/MinimalForm/                                feed
 https://github.com/puikinsh/gentelella                                      Admin Panel
 
 http://tympanus.net/Tutorials/NaturalLanguageForm/                          sentance form
-
+http://tympanus.net/Development/Baraja/                                     friend list
 
 https://codyhouse.co/gem/client-testimonials-carousel/                      testimonial Caroeuseal
 Owl Caroeuseal
