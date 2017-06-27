@@ -34,3 +34,4 @@ http://tympanus.net/codrops/2016/07/20/simple-interactive-points-effect/    Iter
 http://tympanus.net/codrops/2016/01/12/cinema-seat-preview-experiment/      Live Cinema Seat View
 http://tympanus.net/Development/ElasticCircleSlideshow/                     Elastic Slide Show
 http://tympanus.net/codrops/2013/04/19/responsive-multi-level-menu/         Multilevel Respnosive Menu
+http://tympanus.net/Tutorials/CircularNavigation/index2.html                CircularNavigation
